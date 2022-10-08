@@ -598,7 +598,7 @@ const listMessage = {
             caption: text,
             footer: titlebot,
             templateButtons: [
-                {
+                /*{
                     urlButton: {
                         displayText: `${namebot}`,
                         url: 'https://github.com/ImYanXiao/Elaina-MultiDevice'
@@ -609,7 +609,7 @@ const listMessage = {
                         displayText: 'Instagram',
                         url: sig
                     }
-                },
+                },*/
                 {
                     quickReplyButton: {
                         displayText: 'Owner🎐',
